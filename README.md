@@ -50,5 +50,5 @@
 
 #3. 环境与依赖
 # 开发环境
-- 编程语言：[Python 3.9+]
+- 编程语言：[JavaScript]
 - 框架/库：[OpenPyXL（Excel处理）]
